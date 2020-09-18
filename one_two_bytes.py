@@ -1,6 +1,5 @@
 '''
- @param mas
- @return 1(bytes) | 2(bytes)
+return 1(bytes) | 2(bytes)
 '''
 def find_last_bit(mas):
     if mas[-1] == 0:
